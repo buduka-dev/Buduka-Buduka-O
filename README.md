@@ -1,25 +1,40 @@
-BDK XYZ
+# Buduka Buduka O.
 
-Welcome to BDK XYZ!
+Welcome to my GitHub.
 
-This repository contains my software projects, experiments, and learning journey in Computer Science.
+I'm **Buduka Buduka O.**, a Computer Science student interested in software development, technology, and building products.
 
-About Me
-I'm BUDUKA O., a Computer Science student passionate about:
-- Software Development
-- Artificial Intelligence
-- Open Source
-- Product Building
+## About Me
 
-Current Projects
-- Portfolio Website
-- Python Practice
-- C Programming
-- Web Development
+* Computer Science Student
+* Software Developer
+* Interested in AI and emerging technology
+* Interested in product development and entrepreneurship
 
-Goals
-- Build impactful projects
-- Contribute to open source
-- Learn by building
+## Projects
 
- Thanks for visiting!🤝💪🏾💪🏾
+* Web Development
+* Software Projects
+* AI Experiments
+* Python Projects
+* C Programming
+* Personal Projects
+
+## Currently Learning
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Python
+* C
+* Databases
+
+## Goals
+
+* Become a better software developer
+* Build useful products
+* Contribute to open source
+* Keep learning and improving
+
+Thanks for visiting my profile.

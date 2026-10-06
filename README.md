@@ -1,40 +1,31 @@
-# Buduka Buduka O.
+# Hey, I'm Buduka 👋
 
-Welcome to my GitHub.
+Welcome to my corner of GitHub!
 
-I'm **Buduka Buduka O.**, a Computer Science student interested in software development, technology, and building products.
+I'm a Computer Science student who genuinely enjoys building things with code, whether it's a small experiment, a web app, or just something I thought would be fun to try. I'm still learning, still curious, and honestly, that's the best part.
 
-## About Me
+### A bit about me
 
-* Computer Science Student
-* Software Developer
-* Interested in AI and emerging technology
-* Interested in product development and entrepreneurship
+ Studying Computer Science,  Software Developer (in progress, always),  Fascinated by AI and where tech is heading,  Into product development and the idea of building something people actually use.
 
-## Projects
+### What I've been working on
 
-* Web Development
-* Software Projects
-* AI Experiments
-* Python Projects
-* C Programming
-* Personal Projects
+Just exploring and building, web stuff, small software projects, AI experiments, Python scripts, some C programming, and personal projects that keep me up at night (the good kind).
 
-## Currently Learning
+### Currently learning
 
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Python
-* C
-* Databases
+Right now I'm diving into:
 
-## Goals
+**JavaScript · TypeScript · React · Next.js · Python · C · Databases**
 
-* Become a better software developer
-* Build useful products
-* Contribute to open source
-* Keep learning and improving
+Still figuring things out, but that's the fun part, right?
 
-Thanks for visiting my profile.
+### Where I'm headed
+
+Get better at what I do, one project at a time, build things that are actually useful, contribute to open source, and never stop learning.
+
+### Let's chat
+
+If you're into tech, building stuff, or just want to talk about ideas, feel free to reach out. Always happy to connect.
+
+Thanks for stopping by. 👋
